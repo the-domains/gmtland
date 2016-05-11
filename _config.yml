@@ -1,0 +1,28 @@
+name: GMTLAND
+favicon: null
+layout_spectrum: 0.9657956433948129
+typography_spectrum: 0.3167569590732455
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.12294454243965447
+  lightness: 0.6964903047773987
+  saturation: 0.7021184165496379
+  rhythmicContrast: 0.3777059377171099
+purpose: []
