@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[GMTLAND]]></title>
         <description><![CDATA[GMTLAND]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gmtland/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 22:11:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 May 2016 22:16:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gmtland/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Brokerage Services</p>]]></description>
-            <link>undefinedbrokerage-services/index.html</link>
+            <link>https://thegrid.ai/gmtland/brokerage-services/index.html</link>
             <guid isPermaLink="false">f9b5c254-5396-4ef3-811c-b405a3f36920</guid>
-            <pubDate>Wed, 11 May 2016 22:11:07 GMT</pubDate>
+            <pubDate>Wed, 11 May 2016 22:16:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
